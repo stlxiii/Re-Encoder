@@ -1,0 +1,8 @@
+papier.py
+*__pycache__*
+debug.robot
+debug.py
+debug.*.robot
+debug.*.py
+*.sample.*
+samples/*/
