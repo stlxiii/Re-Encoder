@@ -5,4 +5,4 @@ debug.py
 debug.*.robot
 debug.*.py
 *.sample.*
-samples/*/
+samples/*
